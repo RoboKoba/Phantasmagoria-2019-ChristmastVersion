@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Room Point Cloud 1
+  m_Shader: {fileID: 4800000, guid: 289108d1e691a3b43bcb67a4c5ed05da, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Amount: 1.01
+    - _AmplitudeX: 0
+    - _AmplitudeY: 0.0216
+    - _AmplitudeZ: 0.0365
+    - _Distance: 0
+    - _FrequencyX: 2.05
+    - _FrequencyY: 9.98
+    - _FrequencyZ: 0
+    - _OffsetX: -0.1
+    - _OffsetY: -0
+    - _OffsetZ: -11.7
+    - _PointSize: 1.46
+    - _Radius: 0.1
+    - _ScaleAmplitude: 1.36
+    - _ScaleFrequency: 5.13
+    - _ScaleOffset: 1.04
+    - _SpeedX: 1.73
+    - _SpeedY: 0.85
+    - _SpeedZ: 2.83
+    - _SpherizeFirst: 1
+    m_Colors:
+    - _Tint: {r: 0.990566, g: 0.5814467, b: 0.41585082, a: 1}
